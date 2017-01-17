@@ -5,5 +5,5 @@
 * [2016-11-27] Django와 Azure를 이용한 간단한 웹서비스 배포 : 프론트엔드부터 백엔드까지! 분노의 개발자들에게 꼭 필요한 세션! Python과 Django로 세줄요약 서비스 만들기! 개발에 필요한 모든 요소들을 설명하고 함께 실습하는 아주 친절한 세션.   
 
 ## 관련자료 
-* [분노의 개발자팀 Facebook](https://www.facebook.com/mspdjango2016/?fref=ts)
-
+* [분노의 개발자팀 Facebook](https://www.facebook.com/mspdjango2016/)
+* [today3line ProjectCode](https://github.com/juice500ml/today3line)
